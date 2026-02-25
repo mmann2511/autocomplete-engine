@@ -78,6 +78,3 @@ Term[] matches = ac.allMatches("pre"); // Returns matches in descending weight o
 
 ---
 
-## Course
-**COMP 2210 – Data Structures and Algorithms**  
-Auburn University
